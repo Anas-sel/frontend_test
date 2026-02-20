@@ -23,17 +23,17 @@ QUESTIONS = [
     #{"question": "Was bedeutet das Zeichen 'مـ' – 'Waqf Lazim' (وقف لازم)?", "options": ["Hier darf man stoppen (وقف جائز Waqf Jaiz)", "Hier muss man stoppen, da das Weiterlesen den Sinn verfälscht", "Hier soll man nicht stoppen (لا وقف La Waqf)", "Hier ist ein langer Madd (مد Madd)"]},
     {"question": "Was ist 'Tafkhim' (تفخيم)?", "options": ["Das dünne/leichte Aussprechen eines Buchstabens (ترقيق Tarqiq)", "Das schwere/dicke Aussprechen eines Buchstabens", "Das Nasalisieren (غنة Ghunna)", "Das Stoppen (وقف Waqf)"]},
     {"question": "Welche der folgenden Buchstaben werden immer mit 'Tafkhim' (تفخيم – schwer/dick) ausgesprochen? (Mehrere Antworten möglich)", "options": [
-    "خ (Kha)",
-    "ص (Sad)",
-    "ن (Nun)",
-    "ض (Dad)",
+    "خ",
+    "ص"
+    "ن",
+    "ض",
     ]},
     {"question": "Was ist 'Tarqiq' (ترقيق)?", "options": ["Das schwere Aussprechen (تفخيم Tafkhim)", "Das leichte/dünne Aussprechen eines Buchstabens", "Das Dehnen (مد Madd)", "Das Verschmelzen (إدغام Idgham)"]},
     {"question": "Welche der folgenden Buchstaben werden immer mit 'Tarqiq' (ترقيق – leicht/dünn) ausgesprochen? (Mehrere Antworten möglich)", "options": [
-    "ص (Sad)",
-    "ن (Nun)",
-    "ب (Ba)",
-    "ط (Ta)",
+    "ص",
+    "ن",
+    "ب",
+    "ط",
     ]},
     {"question": "Was ist 'Idgham Maal Ghunna' (إدغام مع غنة)?", "options": ["Verschmelzen ohne Nasalton (إدغام بلا غنة Idgham bila Ghunna)", "Verschmelzen mit Nasalton (غنة) bei den Buchstaben ي، ن، م، و (Ya, Nun, Mim, Waw)", "Klares Aussprechen mit Nasalton (إظهار Izhar)", "Umwandeln mit Nasalton (إقلاب Iqlab)"]},
     {"question": "Was ist 'Madd Wajib' (مد واجب)?", "options": [
