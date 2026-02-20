@@ -7,6 +7,7 @@
 streamlit
 requests
 pandas
+streamlit-cookies-controller
 
 # If you want to display datasets, or if your API returns you dataframes,
 # you might need to add some extra stuff hereunder, e.g. pandas
