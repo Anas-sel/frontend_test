@@ -24,7 +24,7 @@ QUESTIONS = [
     {"question": "Was ist 'Tafkhim' (تفخيم)?", "options": ["Das dünne/leichte Aussprechen eines Buchstabens (ترقيق Tarqiq)", "Das schwere/dicke Aussprechen eines Buchstabens", "Das Nasalisieren (غنة Ghunna)", "Das Stoppen (وقف Waqf)"]},
     {"question": "Welche der folgenden Buchstaben werden immer mit 'Tafkhim' (تفخيم – schwer/dick) ausgesprochen? (Mehrere Antworten möglich)", "options": [
     "خ",
-    "ص"
+    "ص",
     "ن",
     "ض",
     ]},
